@@ -1,6 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>欢迎来到我的主页!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>欢迎来到我的小作坊!</h1>
 
-<div style="display:flex;align-items:center;justify-content:center;"><span style="margin-left:10px">我的家</span><img src="README.assets/licensed-image.jpg"></div>
+<div style="display:flex;align-items:center;justify-content:center;"><img src="README.assets/licensed-image.jpg"></div>
 
 <p>
     <font font size="5">
