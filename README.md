@@ -5,7 +5,7 @@
 <p>
     <font font size="5">
       <br>我的博客地址： 
-      <a href="https://bytequestor.github.io" target="_blank">ByteQuestor的博客</a>
+      <a href="https://alonelovely.github.io" target="_blank">AloneLovely的博客</a>
 </p>
 
 <h3>我在学习</h3>
